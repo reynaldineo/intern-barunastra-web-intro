@@ -173,6 +173,12 @@ p {
   margin: 20px;
 }
 
+.about-img {
+  width: 500px;
+  height: auto;
+  margin: 20px;
+}
+
 /* Responsive Breakpoint */
 
 /* ukuran tablet */
